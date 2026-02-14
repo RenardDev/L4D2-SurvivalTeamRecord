@@ -13,7 +13,7 @@ public Plugin myinfo = {
     name        = "[L4D2] Survival Team Record Persist",
     author      = "Ren",
     description = "Persist Survival HUD 'Team Record'",
-    version     = PLUGIN_VERSION,
+    version     = "1.0.0",
     url         = "N/A"
 };
 
